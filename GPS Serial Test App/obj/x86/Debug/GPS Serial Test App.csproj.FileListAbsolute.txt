@@ -1,0 +1,30 @@
+C:\Users\Algiz\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Algiz\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Algiz\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Algiz\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Algiz\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Algiz\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Algiz\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Algiz\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Algiz\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\bin\Debug\GPS Serial Test App.exe
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\bin\Debug\GPS Serial Test App.pdb
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPSSerialTestApp.Properties.Resources.resources
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPS Serial Test App.exe
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPS Serial Test App.pdb
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPS Serial Test App.exe
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPS Serial Test App.pdb
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\bin\Debug\GPS Serial Test App.exe
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\bin\Debug\GPS Serial Test App.pdb
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPSTester.GPSTestApp.resources
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPSTesterApp.GPSTestApp.resources
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPSRoot.Properties.Resources.resources
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPS Serial Test App.csprojResolveAssemblyReference.cache
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPS Serial Test App.csproj.GenerateResource.Cache
+G:\ErisSync\Design Research\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPS Serial Test App.exe
+G:\ErisSync\Design Research\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPS Serial Test App.pdb
+G:\DevSync\Research\Programming\Windows\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPS Serial Test App.exe
+G:\DevSync\Research\Programming\Windows\GPS Serial Test App\GPS Serial Test App\obj\x86\Debug\GPS Serial Test App.pdb

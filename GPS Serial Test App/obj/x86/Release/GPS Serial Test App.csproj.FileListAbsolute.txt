@@ -1,0 +1,18 @@
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\bin\Release\GPS Serial Test App.exe
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\bin\Release\GPS Serial Test App.pdb
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\GPS Serial Test App.exe
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\GPS Serial Test App.pdb
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\SerialTest.GPSTestApp.resources
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\GPSSerialTestApp.Properties.Resources.resources
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\GPS Serial Test App.exe
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\bin\Release\GPS Serial Test App.exe
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\bin\Release\GPS Serial Test App.pdb
+D:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\GPS Serial Test App.pdb
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\GPSTesterApp.GPSTestApp.resources
+F:\Design Research_Synced\Programming\Windows Desktop Programs\GPS Serial Test App\GPS Serial Test App\obj\x86\Release\GPSRoot.Properties.Resources.resources
